@@ -25,3 +25,5 @@ Na tela de cálculo de IMC, os usuários podem inserir seu peso e altura para ca
 4. Interpretação do Resultado: O resultado do IMC é classificado em categorias como "Magreza grave", "Peso ideal", "Sobrepeso", etc.
 5. Apresentação: Os resultados do cálculo e da interpretação são exibidos na tela.
 6. Informação do Autor: Adicionamos um texto indicando o nome do autor abaixo dos resultados, para dar crédito aos criadores da aplicação.
+
+7. DOWNLOAD: app-release.apk
